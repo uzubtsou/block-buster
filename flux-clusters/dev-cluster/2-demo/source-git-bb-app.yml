@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 2-demo
-  url: https://github.com//bb-app-source
+  url: https://github.com/sid-demo/bb-app-source
